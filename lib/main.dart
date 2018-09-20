@@ -7,8 +7,6 @@ import './Pokemon.dart';
 import './pokemon-detail.dart';
 
 void main() {
-  MaterialPageRoute.debugEnableFadingRoutes = true;
-
   runApp(MyApp());
 }
 
